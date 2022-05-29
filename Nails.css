@@ -1,0 +1,72 @@
+body {
+    background-image: url(/zNails/123.jpg);
+    padding: 100px;
+}
+.menu {
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80%;
+    max-width: 500px;    
+    padding: 20px;
+}
+/* FONTS */
+h1, p, h2 {
+    text-align: center;
+}
+h1 {
+    font-family: cursive;
+}
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+p {
+    font-family: cursive;
+}
+/* menu */
+.established {
+    font-style: italic;
+}
+.services p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.hand, .foot {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+hr {
+    background-color: #8B008B;
+    border-color: #8B008B;
+    height: 2px;
+}
+/* FOOTER */
+.bottomline {
+    margin-top: 25px;
+}
+.footer {
+    font-family: sans-serif;
+    margin-bottom: -10px;
+}
+.footimg {
+    margin-top: 20px;
+    width: 6%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
